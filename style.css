@@ -1,0 +1,61 @@
+.nav-bar{
+    background-color: rgb(27, 28, 29);
+}
+.nav-items  { 
+    margin-left: 250px;
+    height: 90px;
+}
+.main {
+    margin-top: 7px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+.container-box{
+    height: 300px;
+}
+
+.first-col { 
+    margin-left: 20px;
+}
+.image-kazi { 
+    margin-left: 50px;
+}
+.secName { 
+    margin-top: 60px;
+}
+.Font-Range { 
+    font-size:larger;
+}
+.button-con { 
+    width: 400px;
+    height: 200px;
+}
+.text-container  {
+    height: 100px;
+}
+.New-order{ 
+   
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+.New-order-span { 
+    background: #fff;
+    padding: 0 10px;
+}
+.text-small { 
+    font-size: large;
+}
+.text-formula  { 
+    font-size: larger;
+}
+.content-main { 
+    font-size: xx-large;
+}
+.Text-formation { 
+    font-size:xx-small;
+}
+.footer { 
+    height: 100px;
+}
